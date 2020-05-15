@@ -11,7 +11,7 @@ Extension Written by Scarlet#1115 on Discord.
 Currently Valeria is a static site, so you just need to host those static files. You can run `npm run serve-dist` to host it locally. Valeria is probably available in https://localhost:4800
 
 ### Development
-Developers can run `npm run dev` to autocompile on each typescript and sass change and to serve ./bin to https://localhost:4800
+Developers can rundklfkladlfahdl;fhald `npm run dev` to autocompile on each typescript and sass change and to serve ./bin to https://localhost:4800
 
 ## Usage
 
